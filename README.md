@@ -2,14 +2,12 @@
 
 
 <h3 align='center'> Data Scientist & Machine Learning & Open Source Enthusiast.</h3>
+<h3 align='center'> Cloud and Devops Engineer</h3>
 
  
 - 👨‍💻 Pursuing B.Tech in CSE
 
-- 🔭 Currently working on ML problems
-
-- 👯 I’m looking to collaborate on ML Projects
-
+- 🔭 Currently working on Devops
 
 
 ## Tech Stack 💻
